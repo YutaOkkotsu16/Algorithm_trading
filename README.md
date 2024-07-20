@@ -64,5 +64,4 @@ This Python script implements a simple trading strategy by fetching stock data f
 - Ensure the `sp_500_stocks.csv` file and `secrets.py` file are in the same directory as the script.
 - The script uses the IEX Cloud sandbox environment for API calls. For production use, replace the sandbox URL with the live URL.
 
-## License
-This project is licensed under the MIT License.
+
